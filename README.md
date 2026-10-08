@@ -6,13 +6,14 @@ Tonight, on Halloween, the music abruptly stopped when Victor was found dead out
 Now before the sun rises you must figure out "whodunnit" use any resource you can to explore each room collecting evidence and motives and be the first team to get justice for Victor...or die trying... \**evil laugh\**
 
 # Victor Von Jacobson
-<img width="192" height="336" alt="image" src="https://github.com/user-attachments/assets/4425ddd3-8737-4446-aa4d-c7cabf33d644" />
+<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/4425ddd3-8737-4446-aa4d-c7cabf33d644" /> <img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/ad091bd3-c117-4a0b-b4d5-8cc9a88689b8" />
+
 
 ## Mansion Map
 <img width="2400" height="1792" alt="Map of Victors Mansion" src="https://github.com/user-attachments/assets/c1cad479-3a37-4e89-9467-1b90ece54365" />
 
 
 
-## Resources to guide learning
+## Resources
 https://pypi.org/project/cryptography/ <br>
 https://www.w3schools.com/bash/bash_commands.php
