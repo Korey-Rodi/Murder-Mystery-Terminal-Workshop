@@ -1,0 +1,27 @@
+MacOS/Linux:
+If the file extension ends with .txt use cat <filename>
+
+If you would like to open the file in a text editor use open <filename>
+
+If the file extension ends with .py use open <filename.py>
+
+If the file extension end with .jpeg use open <filename.jpeg>
+
+If there is no file extension use cd <directory>
+
+To check for hidden weapons, passages, and rooms use ls -a
+
+
+
+Windows:
+If the file extension ends with .txt use cat <filename>
+
+If you would like to open the file in a text editor use notepad <filename>
+
+If the file extension ends with .py use notepad <filename.py>
+
+If the file extension ends with .jpeg use start <filename.jpeg>
+
+If there is no file extension use cd <directory>
+
+To check for hidden weapons, passages, and rooms use ls -Force
