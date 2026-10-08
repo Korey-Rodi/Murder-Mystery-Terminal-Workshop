@@ -1,0 +1,17 @@
+The goal of this workshop is to walk away knowing/have done the following..
+- What github is and have created an account
+- Understand the terminal and how to navigate it using commands
+- Work with a new exciting Python Library
+- Work with documentation
+
+
+You can work alone or with a group to complete this workshop.
+You or your team should be the first to complete the mystery before anyone else
+You must collect all pieces of evidence; all cases must be complete for
+a winner to be declared.
+
+The goal is to have fun and learn be patient and dont take anything to seriously.
+Hopefully you are introduced to some new and exciting concepts witin computing
+and you can share or explore more in the future.
+
+Have fun! and Happy Murder!
