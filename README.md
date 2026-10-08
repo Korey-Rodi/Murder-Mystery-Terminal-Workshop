@@ -3,8 +3,16 @@ Victor von Jacobson built a fortune not through honest enterprise, but through r
 
 Tonight, on Halloween, the music abruptly stopped when Victor was found dead out on the manor balcony.
 
-Now before the sun rises you must figure out "whodunnit" use any resource you can to explore each room collecting evidence and motives and be the first team to get justice for Victor...OR DIE!!!
+Now before the sun rises you must figure out "whodunnit" use any resource you can to explore each room collecting evidence and motives and be the first team to get justice for Victor...or die trying... \**evil laugh\**
 
-# Resources
+# Victor Von Jacobson
+<img width="192" height="336" alt="image" src="https://github.com/user-attachments/assets/4425ddd3-8737-4446-aa4d-c7cabf33d644" />
+
+## Mansion Map
+<img width="2400" height="1792" alt="Map of Victors Mansion" src="https://github.com/user-attachments/assets/c1cad479-3a37-4e89-9467-1b90ece54365" />
+
+
+
+## Resources to guide learning
 https://pypi.org/project/cryptography/ <br>
 https://www.w3schools.com/bash/bash_commands.php
