@@ -6,7 +6,8 @@ Tonight, on Halloween, the music abruptly stopped when Victor was found dead out
 Now before the sun rises you must figure out "whodunnit" use any resource you can to explore each room collecting evidence and motives and be the first team to get justice for Victor...or die trying... \**evil laugh\**
 
 # Victor Von Jacobson
-<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/4425ddd3-8737-4446-aa4d-c7cabf33d644" /> <img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/ad091bd3-c117-4a0b-b4d5-8cc9a88689b8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/562e5249-162b-449b-bdad-8b9be199484b" />
+ <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ad091bd3-c117-4a0b-b4d5-8cc9a88689b8" />
 
 
 ## Mansion Map
