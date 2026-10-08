@@ -18,3 +18,5 @@ Now before the sun rises you must figure out "whodunnit" use any resource you ca
 ## Resources
 https://pypi.org/project/cryptography/ <br>
 https://www.w3schools.com/bash/bash_commands.php
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell
+
